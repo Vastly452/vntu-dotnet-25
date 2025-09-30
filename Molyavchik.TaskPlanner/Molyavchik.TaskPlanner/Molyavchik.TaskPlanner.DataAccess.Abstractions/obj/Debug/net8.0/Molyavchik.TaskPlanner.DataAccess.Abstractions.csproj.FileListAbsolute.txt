@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\Molyavchik.TaskPlanner\Molyavchik.TaskPlanner\Molyavchik.TaskPlanner.DataAccess.Abstractions\bin\Debug\net8.0\Molyavchik.TaskPlanner.DataAccess.Abstractions.deps.json
+C:\Users\User\Desktop\Molyavchik.TaskPlanner\Molyavchik.TaskPlanner\Molyavchik.TaskPlanner.DataAccess.Abstractions\bin\Debug\net8.0\Molyavchik.TaskPlanner.DataAccess.Abstractions.dll
+C:\Users\User\Desktop\Molyavchik.TaskPlanner\Molyavchik.TaskPlanner\Molyavchik.TaskPlanner.DataAccess.Abstractions\bin\Debug\net8.0\Molyavchik.TaskPlanner.DataAccess.Abstractions.pdb
+C:\Users\User\Desktop\Molyavchik.TaskPlanner\Molyavchik.TaskPlanner\Molyavchik.TaskPlanner.DataAccess.Abstractions\bin\Debug\net8.0\Molyavchik.TaskPlanner.Domain.Models.dll
+C:\Users\User\Desktop\Molyavchik.TaskPlanner\Molyavchik.TaskPlanner\Molyavchik.TaskPlanner.DataAccess.Abstractions\bin\Debug\net8.0\Molyavchik.TaskPlanner.Domain.Models.pdb
+C:\Users\User\Desktop\Molyavchik.TaskPlanner\Molyavchik.TaskPlanner\Molyavchik.TaskPlanner.DataAccess.Abstractions\obj\Debug\net8.0\Molyavchik.TaskPlanner.DataAccess.Abstractions.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Molyavchik.TaskPlanner\Molyavchik.TaskPlanner\Molyavchik.TaskPlanner.DataAccess.Abstractions\obj\Debug\net8.0\Molyavchik.TaskPlanner.DataAccess.Abstractions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Molyavchik.TaskPlanner\Molyavchik.TaskPlanner\Molyavchik.TaskPlanner.DataAccess.Abstractions\obj\Debug\net8.0\Molyavchik.TaskPlanner.DataAccess.Abstractions.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Molyavchik.TaskPlanner\Molyavchik.TaskPlanner\Molyavchik.TaskPlanner.DataAccess.Abstractions\obj\Debug\net8.0\Molyavchik.TaskPlanner.DataAccess.Abstractions.AssemblyInfo.cs
+C:\Users\User\Desktop\Molyavchik.TaskPlanner\Molyavchik.TaskPlanner\Molyavchik.TaskPlanner.DataAccess.Abstractions\obj\Debug\net8.0\Molyavchik.TaskPlanner.DataAccess.Abstractions.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Molyavchik.TaskPlanner\Molyavchik.TaskPlanner\Molyavchik.TaskPlanner.DataAccess.Abstractions\obj\Debug\net8.0\Molyavch.BF156231.Up2Date
+C:\Users\User\Desktop\Molyavchik.TaskPlanner\Molyavchik.TaskPlanner\Molyavchik.TaskPlanner.DataAccess.Abstractions\obj\Debug\net8.0\Molyavchik.TaskPlanner.DataAccess.Abstractions.dll
+C:\Users\User\Desktop\Molyavchik.TaskPlanner\Molyavchik.TaskPlanner\Molyavchik.TaskPlanner.DataAccess.Abstractions\obj\Debug\net8.0\refint\Molyavchik.TaskPlanner.DataAccess.Abstractions.dll
+C:\Users\User\Desktop\Molyavchik.TaskPlanner\Molyavchik.TaskPlanner\Molyavchik.TaskPlanner.DataAccess.Abstractions\obj\Debug\net8.0\Molyavchik.TaskPlanner.DataAccess.Abstractions.pdb
+C:\Users\User\Desktop\Molyavchik.TaskPlanner\Molyavchik.TaskPlanner\Molyavchik.TaskPlanner.DataAccess.Abstractions\obj\Debug\net8.0\ref\Molyavchik.TaskPlanner.DataAccess.Abstractions.dll
